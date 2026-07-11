@@ -1,6 +1,6 @@
 /*
 ========================================
-Problem  : QTREE2 - Query on a tree II
+Problem  : Query on a tree II
 URL      : https://www.spoj.com/problems/QTREE2
 Code     : https://github.com/whoashish115/spoj
 Author   : Ashish Kumar
