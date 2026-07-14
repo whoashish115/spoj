@@ -73,7 +73,6 @@ void query(int u, int v) {
         }
     }
 
-    // final step to the LCA
     ans_min = min(ans_min, min(mn[u][0], mn[v][0]));
     ans_max = max(ans_max, max(mx[u][0], mx[v][0]));
 
